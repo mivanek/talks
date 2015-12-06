@@ -15,7 +15,7 @@ regardless of your OS.
 ## Using the vimrc in this repo
 In order to use all the features in this vimrc, you first need to install the
 [Vundle](https://github.com/VundleVim/Vundle.vim) plugin manager. After that,
-copy the vimrc file to your home folder (don't foget to add a dot at the
+copy the vimrc file and vim/ folder to your home folder (don't foget to add a dot at the
 beginning of the file name!) and run the following command:  
 
     vim +PluginInstall +qa

@@ -1,0 +1,6 @@
+[submodule "vim/bundle/Vundle.vim"]
+	path = vim/bundle/Vundle.vim
+	url = https://github.com/VundleVim/Vundle.vim
+[submodule "A Closer Look At Vim - TerminalZG/vim/bundle/Vundle.vim"]
+	path = A Closer Look At Vim - TerminalZG/vim/bundle/Vundle.vim
+	url = https://github.com/VundleVim/Vundle.vim
